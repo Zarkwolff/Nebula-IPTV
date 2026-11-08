@@ -1,0 +1,1 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"><item><shape><gradient android:angle="0" android:startColor="#0B0E17" android:endColor="#28105A"/></shape></item><item android:drawable="@drawable/ic_nebula" android:gravity="left|center_vertical" android:width="96dp" android:height="96dp"/></layer-list>

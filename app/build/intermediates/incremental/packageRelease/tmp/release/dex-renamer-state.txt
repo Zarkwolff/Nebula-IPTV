@@ -1,0 +1,7 @@
+#Sun Nov 08 10:08:23 GMT-03:00 2026
+base.0=C\:\\Users\\Diego\\Documents\\Projetos\\nebula-iptv\\Nebula-IPTV\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+base.1=C\:\\Users\\Diego\\Documents\\Projetos\\nebula-iptv\\Nebula-IPTV\\app\\build\\intermediates\\global_synthetics_dex\\release\\mergeReleaseGlobalSynthetics\\classes.dex
+path.0=classes.dex
+path.1=classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

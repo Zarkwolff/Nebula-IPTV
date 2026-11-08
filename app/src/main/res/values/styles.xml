@@ -1,0 +1,10 @@
+<resources>
+    <style name="AppTheme" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">@font/inter</item>
+        <item name="android:colorAccent">@color/purple</item>
+        <item name="android:navigationBarColor">@color/charcoal</item>
+        <item name="android:statusBarColor">@color/charcoal</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">@color/charcoal</item>
+    </style>
+</resources>

@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.nebula.iptv.app-mergeReleaseResources-3:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Diego\\Documents\\Projetos\\nebula-iptv\\Nebula-IPTV\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "493"
+                    },
+                    "to": {
+                        "startLines": "24",
+                        "startColumns": "4",
+                        "startOffsets": "1244",
+                        "endLines": "31",
+                        "endColumns": "12",
+                        "endOffsets": "1721"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Diego\\.gradle\\caches\\9.9.0\\transforms\\8cd0403237d6356a24cf143d8dcd68b1\\transformed\\media3-exoplayer-1.11.1\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,187,252,316,393,458,548,632",
+                        "endColumns": "69,61,64,63,76,64,89,83,68",
+                        "endOffsets": "120,182,247,311,388,453,543,627,696"
+                    },
+                    "to": {
+                        "startLines": "15,16,17,18,19,20,21,22,23",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "598,668,730,795,859,936,1001,1091,1175",
+                        "endColumns": "69,61,64,63,76,64,89,83,68",
+                        "endOffsets": "663,725,790,854,931,996,1086,1170,1239"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Diego\\Documents\\Projetos\\nebula-iptv\\Nebula-IPTV\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,1,7,12,13,6,9,5,10,2,3,11,8",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "144,16,266,469,509,224,345,183,385,59,101,427,305",
+                        "endColumns": "38,42,38,39,49,41,39,40,41,41,42,41,39",
+                        "endOffsets": "178,54,300,504,554,261,380,219,422,96,139,464,340"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,94,137,176,216,266,308,348,389,431,473,516,558",
+                        "endColumns": "38,42,38,39,49,41,39,40,41,41,42,41,39",
+                        "endOffsets": "89,132,171,211,261,303,343,384,426,468,511,553,593"
+                    }
+                }
+            ]
+        }
+    ]
+}

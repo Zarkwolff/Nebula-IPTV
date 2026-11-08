@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.nebula.iptv.app-mergeReleaseResources-3:/values-bg/values-bg.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Diego\\.gradle\\caches\\9.9.0\\transforms\\8cd0403237d6356a24cf143d8dcd68b1\\transformed\\media3-exoplayer-1.11.1\\res\\values-bg\\values-bg.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,126,189,253,327,405,478,575,666",
+                        "endColumns": "70,62,63,73,77,72,96,90,75",
+                        "endOffsets": "121,184,248,322,400,473,570,661,737"
+                    }
+                }
+            ]
+        }
+    ]
+}

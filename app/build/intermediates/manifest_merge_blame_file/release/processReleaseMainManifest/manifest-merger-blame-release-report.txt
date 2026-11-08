@@ -1,0 +1,115 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.nebula.iptv"
+4    android:versionCode="11"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+7-->INJECTED
+8        android:minSdkVersion="23"
+8-->INJECTED
+9        android:targetSdkVersion="35" />
+9-->INJECTED
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:3:5-67
+11-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:3:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:4:5-79
+12-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:4:22-76
+13
+14    <uses-feature
+14-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:5:5-87
+15        android:name="android.software.leanback"
+15-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:5:19-59
+16        android:required="false" />
+16-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:5:60-84
+17    <uses-feature
+17-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:6:5-90
+18        android:name="android.hardware.touchscreen"
+18-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:6:19-62
+19        android:required="false" />
+19-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:6:63-87
+20
+21    <uses-permission android:name="android.permission.WAKE_LOCK" />
+21-->[androidx.media3:media3-exoplayer:1.11.1] C:\Users\Diego\.gradle\caches\9.9.0\transforms\8cd0403237d6356a24cf143d8dcd68b1\transformed\media3-exoplayer-1.11.1\AndroidManifest.xml:23:5-68
+21-->[androidx.media3:media3-exoplayer:1.11.1] C:\Users\Diego\.gradle\caches\9.9.0\transforms\8cd0403237d6356a24cf143d8dcd68b1\transformed\media3-exoplayer-1.11.1\AndroidManifest.xml:23:22-65
+22
+23    <application
+23-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:8:5-33:19
+24        android:allowBackup="false"
+24-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:9:9-36
+25        android:banner="@drawable/nebula_logo"
+25-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:15:9-47
+26        android:extractNativeLibs="false"
+26-->INJECTED
+27        android:icon="@mipmap/ic_launcher"
+27-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:13:9-43
+28        android:label="Nebula IPTV"
+28-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:12:9-36
+29        android:roundIcon="@mipmap/ic_launcher"
+29-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:14:9-48
+30        android:theme="@style/AppTheme"
+30-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:11:9-40
+31        android:usesCleartextTraffic="true" >
+31-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:10:9-44
+32        <activity
+32-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:16:9-123
+33            android:name="com.nebula.iptv.PlayerActivity"
+33-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:16:19-49
+34            android:configChanges="keyboard|keyboardHidden|orientation|screenSize" />
+34-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:16:50-120
+35        <activity
+35-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:17:9-32:20
+36            android:name="com.nebula.iptv.MainActivity"
+36-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:17:19-47
+37            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+37-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:17:88-158
+38            android:exported="true"
+38-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:17:159-182
+39            android:screenOrientation="unspecified" >
+39-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:17:48-87
+40            <intent-filter>
+40-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:18:13-21:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:19:17-69
+41-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:19:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:20:17-77
+43-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:20:27-74
+44            </intent-filter>
+45            <intent-filter>
+45-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:22:13-25:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:19:17-69
+46-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:19:25-66
+47
+48                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+48-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:24:17-86
+48-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:24:27-83
+49            </intent-filter>
+50            <intent-filter>
+50-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:26:13-31:29
+51                <action android:name="android.intent.action.VIEW" />
+51-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:27:17-69
+51-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:27:25-66
+52
+53                <category android:name="android.intent.category.DEFAULT" />
+53-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:28:17-76
+53-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:28:27-73
+54                <category android:name="android.intent.category.BROWSABLE" />
+54-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:29:17-78
+54-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:29:27-75
+55
+56                <data
+56-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:30:17-71
+57                    android:host="import"
+57-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:30:47-68
+58                    android:scheme="nebula" />
+58-->C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\AndroidManifest.xml:30:23-46
+59            </intent-filter>
+60        </activity>
+61    </application>
+62
+63</manifest>

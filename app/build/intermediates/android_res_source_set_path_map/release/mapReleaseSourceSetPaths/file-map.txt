@@ -1,0 +1,8 @@
+com.nebula.iptv.app-pngs-0 C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\build\generated\res\pngs\release
+com.nebula.iptv.app-updated_navigation_xml-1 C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\build\generated\updated_navigation_xml\release
+com.nebula.iptv.app-packageReleaseResources-2 C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.nebula.iptv.app-packageReleaseResources-3 C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.nebula.iptv.app-release-4 C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.nebula.iptv.app-main-5 C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\main\res
+com.nebula.iptv.app-release-6 C:\Users\Diego\Documents\Projetos\nebula-iptv\Nebula-IPTV\app\src\release\res
+gradleHome-0 C:\Users\Diego\.gradle

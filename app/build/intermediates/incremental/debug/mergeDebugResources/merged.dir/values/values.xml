@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#7654F6</color>
+    <color name="charcoal">#080B18</color>
+    <color name="cyan">#21C5D9</color>
+    <color name="error">#F16B78</color>
+    <color name="icon_background">#070A1C</color>
+    <color name="magenta">#B17BFF</color>
+    <color name="muted">#929CB5</color>
+    <color name="purple">#7654F6</color>
+    <color name="success">#35C98A</color>
+    <color name="surface">#10162A</color>
+    <color name="surface2">#19213B</color>
+    <color name="warning">#F3B64B</color>
+    <color name="white">#F5F7FF</color>
+    <string name="exo_download_completed">Download completed</string>
+    <string name="exo_download_description">Download</string>
+    <string name="exo_download_downloading">Downloading</string>
+    <string name="exo_download_failed">Download failed</string>
+    <string name="exo_download_notification_channel_name">Downloads</string>
+    <string name="exo_download_paused">Downloads paused</string>
+    <string name="exo_download_paused_for_network">Downloads waiting for network</string>
+    <string name="exo_download_paused_for_wifi">Downloads waiting for WiFi</string>
+    <string name="exo_download_removing">Removing downloads</string>
+    <style name="AppTheme" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">@font/inter</item>
+        <item name="android:colorAccent">@color/purple</item>
+        <item name="android:navigationBarColor">@color/charcoal</item>
+        <item name="android:statusBarColor">@color/charcoal</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">@color/charcoal</item>
+    </style>
+</resources>

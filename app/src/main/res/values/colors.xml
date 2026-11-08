@@ -1,0 +1,15 @@
+<resources>
+    <color name="charcoal">#080B18</color>
+    <color name="surface">#10162A</color>
+    <color name="surface2">#19213B</color>
+    <color name="blue">#7654F6</color>
+    <color name="purple">#7654F6</color>
+    <color name="magenta">#B17BFF</color>
+    <color name="cyan">#21C5D9</color>
+    <color name="white">#F5F7FF</color>
+    <color name="muted">#929CB5</color>
+    <color name="success">#35C98A</color>
+    <color name="warning">#F3B64B</color>
+    <color name="error">#F16B78</color>
+    <color name="icon_background">#070A1C</color>
+</resources>
